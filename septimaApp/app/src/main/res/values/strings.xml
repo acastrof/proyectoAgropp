@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="apertura">Apertura</string>
+    <string name="cierre">Cierre</string>
+    <string name="app_name">AgroApp Café</string>
+    <string name="msj1">Ingresar datos</string>
+    <string name="msj2">Datos incorrectos</string>
+    <string name="msj3">Bienvenidos a Agroapp Café</string>
+    <string name="msj4">Misión</string>
+    <string name="msj4_1">Implementar un sistema informativo de compra y venta de productos cafeteros a base del aprovechamiento de recursos residuales que favorezcan tanto al cafetero incrementando sus ganancias y evitando el decrecimiento de cultivos y las ganancias como app.  </string>
+    <string name="msj5">Visión</string>
+    <string name="msj5_1">Para el 2026 Agroapp espera contar con una gran cantidad de usuarios los cuales se beneficien de nuestros servicios, además de ser reconocidos como una entidad de gran escala a nivel nacional, en donde podremos seguir creciendo y mejorando ofreciéndole nuestros servicios a las personas.</string>
+    <string name="msj6">se cancelo el ingreso</string>
+    <string name="msj7">no ingrese</string>
+    <string name="msj8">Registra tus datos</string>
+    <string name="datos1">Para utilizar algunos de los servicios o acceder a determinados contenidos, deberá proporcionar previamente ciertos datos de carácter personal, que solo serán utilizados para el propósito que fueron recopilados.
+
+El tipo de la posible Información que se le sea solicitada incluye, de manera enunciativa más no limitativa, su nombre, dirección de correo electrónico (e-mail), opiniones personales, entre otros, no toda la Información solicitada al momento de participar en el sitio es obligatoria de proporcionarse, salvo aquella que consideremos conveniente y que así se le haga saber.
+
+Cómo principio general, este sitio no comparte ni revela información obtenida, excepto cuando haya sido autorizada por usted, o en los siguientes casos:
+
+a) Cuando le sea requerido por una autoridad competente y previo el cumplimiento del trámite legal correspondiente.
+
+b) Cuando  a  juicio  de  esta  aplicación sea necesario  para  hacer   cumplir   las   condiciones   de   uso y   demás   términos de la aplicación, o para salvaguardar la integridad de los demás usuarios o de la aplicación.
+
+Información recopilada automáticamente
+
+Además,  la  aplicación  puede  recopilar  cierta  información  automáticamente, incluyendo, pero  no  limitado  a el  tipo  de  dispositivo  móvil  que  utilice,  los  dispositivos  móviles  de  identificación  única  del  dispositivo,  la  dirección  IP  de  su  dispositivo  móvil,  el  sistema operativo  móvil,  el  tipo  de  móvil  navegadores  de  Internet  que  utiliza,  y  la  información sobre el modo de usar la aplicación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
