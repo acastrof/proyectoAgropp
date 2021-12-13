@@ -51,10 +51,13 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
             case R.id.op2Nav:
                 T1.setText("Comprar Articulos");
+                Intent COM=new Intent(this,Compras.class);
+                startActivity(COM);
                 break;
         }
         DrawerLayout drawer =(DrawerLayout)findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
+
         return true;
 
     }
