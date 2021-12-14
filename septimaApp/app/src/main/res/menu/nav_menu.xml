@@ -10,4 +10,14 @@
         android:title="comprar"
         android:icon="@drawable/ic_baseline_shopping_cart_24"
         />
+    <item
+        android:id="@+id/op3Nav"
+        android:title="Resumen compras"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        />
+    <item
+        android:id="@+id/op4Nav"
+        android:title="infAgroapp"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        />
 </menu>
